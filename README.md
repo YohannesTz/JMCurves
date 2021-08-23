@@ -2,7 +2,7 @@
 
 A simple mathematical curve drawer in canvas to draw a butterfly
 <p align="center">
-    <img src="/screenshots/Butterfly.png" width="350" title="Screenshot" alt="screenshot">
+    <img src="/screenshots/Butterfly.png" width="600" height="400" title="Screenshot" alt="screenshot">
 </p>
 
 # MIT License (MIT)
